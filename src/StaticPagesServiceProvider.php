@@ -1,6 +1,6 @@
 <?php
 
-namespace xelentabrar\Packages;
+namespace XelentAbrar\Packages;
 
 use Illuminate\Support\ServiceProvider;
 

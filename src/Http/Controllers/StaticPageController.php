@@ -1,6 +1,6 @@
 <?php
 
-namespace xelentabrar\Packages\Http\Controllers;
+namespace XelentAbrar\Packages\Http\Controllers;
 
 use Illuminate\Routing\Controller;
 use XelentUmar\Packages\Models\StaticPage;
