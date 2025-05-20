@@ -1,6 +1,6 @@
 <?php
 
-namespace XelentAbrar\Packages\Models;
+namespace xelentabrar\Packages\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

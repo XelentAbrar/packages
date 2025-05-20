@@ -5,13 +5,13 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "XelentAbrar\\Packages\\": "src/"
+      "xelentabrar\\Packages\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "XelentAbrar\\Packages\\StaticPagesServiceProvider"
+        "xelentabrar\\Packages\\StaticPagesServiceProvider"
       ]
     }
   },
